@@ -1,6 +1,6 @@
 
 ---
-- name: DEPLOY AS4 DEC
+- name: DEPLOY AS3 DEC
   hosts: localhost
   connection: local
   gather_facts: no
